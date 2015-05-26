@@ -1,1 +1,5 @@
+<<<<<<< .mine
+
+hello world...=======
 hello
+>>>>>>> .r12
